@@ -15,9 +15,9 @@
 #define OLED_RESET -1       // Reset pin # (or -1 if sharing Arduino reset pin)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-char auth[] = "Auth_token";       // You should get Auth Token in the Blynk App.
-char ssid[] = "wifi_name";        // Your WiFi credentials.
-char pass[] = "wifi_password";
+char auth[] = "Your_Blynk_Auth_Token";  // You should get Auth Token in the Blynk App.
+char ssid[] = "Your_WiFi_SSID";        // Your WiFi credentials.
+char pass[] = "Your_WiFi_Password";
  
 #define inSensor 14 //D5
 #define outSensor 12 //D6
