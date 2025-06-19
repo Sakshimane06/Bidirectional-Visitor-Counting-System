@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL3ZI2dCo4e"
-#define BLYNK_TEMPLATE_NAME "iot"
-#define BLYNK_AUTH_TOKEN "HIfRZQh1CpYQPEOfVJbLssjx0o4ByG0z"
+#define BLYNK_TEMPLATE_ID " "
+#define BLYNK_TEMPLATE_NAME " "
+#define BLYNK_AUTH_TOKEN " "
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
